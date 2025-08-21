@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Containerization for Beginners",
     "section": "",
-    "text": "Welcome\nAn introductory workshop for beginners looking to use build Docker (or Apptainer) containers.\nThe content for this workshop is developed and taught by the OIT Research Technology Services team at SMU in collaboration with SMU Libraries.",
+    "text": "Welcome\nAn introductory workshop for beginners looking to use or build Docker (or Apptainer) containers.\nThe content for this workshop is developed and taught by the OIT Research Technology Services team at SMU in collaboration with SMU Libraries.",
     "crumbs": [
       "Welcome"
     ]
