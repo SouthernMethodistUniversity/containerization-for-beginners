@@ -1,6 +1,6 @@
 # Containerization for Beginners <img src="images/docker-mark-blue.png" align="right" height="139"/>
 
-An introductory workshop for beginners looking to use build Docker (or Apptainer) containers.
+An introductory workshop for beginners looking to use or build Docker (or Apptainer) containers.
 
 The content for this workshop is developed and taught by the OIT Research Technology Services team at SMU in collaboration with SMU Libraries.
 
